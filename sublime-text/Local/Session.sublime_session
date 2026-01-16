@@ -1,0 +1,753 @@
+{
+	"file_history":
+	[
+		"/home/blueberry/.config/sublime-text/Packages/Theme - Darkmatter/Darkmatter.sublime-theme",
+		"/home/blueberry/.config/sublime-text/Packages/User/Darkmatter.sublime-theme",
+		"/home/blueberry/.config/sublime-text/Packages/Theme - Darkmatter/Darkmatter.tmTheme",
+		"/home/blueberry/.config/sublime-text/Packages/User/Darkmatter.sublime-color-scheme",
+		"/home/blueberry/.config/sublime-text/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/blueberry/.config/sublime-text/Packages/User/Default (Linux).sublime-keymap",
+		"/home/blueberry/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/home/blueberry/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/blueberry/.config/sublime-text/Packages/User/blueberry c++.sublime-build",
+		"/home/blueberry/.config/sublime-text/Packages/User/Blueberry C++.sublime-build",
+		"/home/blueberry/.config/sublime-text/Packages/User/blueberry c++.sublime-settings",
+		"/home/blueberry/.config/sublime-text/Packages/User/c++.sublime-settings",
+		"/home/blueberry/.config/sublime-text/Packages/Theme - Default/Default Dark.sublime-theme",
+		"/home/blueberry/.config/sublime-text/Packages/User/Default Dark.sublime-theme"
+	],
+	"folder_history":
+	[
+		"/home/blueberry/competitive-programming"
+	],
+	"last_version": 4200,
+	"last_window_id": 7,
+	"log_indexing": false,
+	"next_update_check": 1768582899,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 950.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			0.0,
+			28.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"packi",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"packag",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/blueberry/competitive-programming/outputf.in",
+				"/home/blueberry/competitive-programming/inputf.in",
+				"/home/blueberry/competitive-programming/main.cpp",
+				"/home/blueberry/.config/sublime-text/Packages/User/blueberry c++.sublime-build",
+				"/home/blueberry/.config/sublime-text/Packages/User/Blueberry C++.sublime-build",
+				"/home/blueberry/.config/sublime-text/Packages/User/blueberry c++.sublime-settings",
+				"/home/blueberry/.config/sublime-text/Packages/User/c++.sublime-settings"
+			],
+			"find":
+			{
+				"height": 59.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"']++;\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 59.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 228.0,
+				"history":
+				[
+				]
+			},
+			"output.find_results":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"pinned_build_system": "Packages/User/Blueberry C++.sublime-build",
+			"replace":
+			{
+				"height": 114.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			}
+		},
+		"new_window_width": 955.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/blueberry/competitive-programming/main.cpp",
+					"settings":
+					{
+						"buffer_size": 173,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					},
+					"undo_stack":
+					[
+						[
+							32,
+							2,
+							"swap_line_down",
+							null,
+							"BAAAAK4AAAAAAAAAygAAAAAAAAAAAAAAkQAAAAAAAACRAAAAAAAAABwAAAAgICAgdmVjdG9yPGludD4gY250KDEwLCAwKTsKxQAAAAAAAADhAAAAAAAAAAAAAACSAAAAAAAAAJIAAAAAAAAAHAAAACAgICB2ZWN0b3I8aW50PiBjbnQoMTAsIDApOwo",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACoAAAAAAAAAKgAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							33,
+							2,
+							"swap_line_up",
+							null,
+							"BAAAAKkAAAAAAAAAqQAAAAAAAAAcAAAAICAgIHZlY3RvcjxpbnQ+IGNudCgxMCwgMCk7CpIAAAAAAAAArgAAAAAAAAAAAAAAkgAAAAAAAACSAAAAAAAAABwAAAAgICAgdmVjdG9yPGludD4gY250KDEwLCAwKTsKkQAAAAAAAACtAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							54,
+							1,
+							"cut",
+							null,
+							"AQAAAJAAAAAAAAAAkAAAAAAAAAAxAQAACiAgICB2ZWN0b3I8aW50PiBjbnQoMTAsIDApOwoKICAgIGZvciAoY2hhciBjIDogTikgewogICAgICAgIGNudFtjIC0gJzAnXSsrOwogICAgfQoKICAgIGludCBiZXN0RGlnaXQgPSAwOwogICAgaW50IG1heEZyZXEgPSBjbnRbMF07CgogICAgZm9yIChpbnQgZCA9IDE7IGQgPD0gOTsgZCsrKSB7CiAgICAgICAgaWYgKGNudFtkXSA+IG1heEZyZXEpIHsKICAgICAgICAgICAgbWF4RnJlcSA9IGNudFtkXTsKICAgICAgICAgICAgYmVzdERpZ2l0ID0gZDsKICAgICAgICB9CiAgICB9CgogICAgY291dCA8PCBiZXN0RGlnaXQgPDwgIlxuIjs",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACQAAAAAAAAAMEBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							69,
+							1,
+							"insert",
+							{
+								"characters": "int"
+							},
+							"AwAAAHgAAAAAAAAAeQAAAAAAAAAGAAAAc3RyaW5neQAAAAAAAAB6AAAAAAAAAAAAAAB6AAAAAAAAAHsAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB4AAAAAAAAAH4AAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							71,
+							1,
+							"left_delete",
+							null,
+							"AQAAAHwAAAAAAAAAfAAAAAAAAAABAAAATg",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB9AAAAAAAAAH0AAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							72,
+							1,
+							"insert",
+							{
+								"characters": "t"
+							},
+							"AQAAAHwAAAAAAAAAfQAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB8AAAAAAAAAHwAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							76,
+							1,
+							"left_delete",
+							null,
+							"AQAAAIoAAAAAAAAAigAAAAAAAAABAAAATg",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACLAAAAAAAAAIsAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							77,
+							1,
+							"insert",
+							{
+								"characters": "t"
+							},
+							"AQAAAIoAAAAAAAAAiwAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACKAAAAAAAAAIoAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							79,
+							1,
+							"insert",
+							{
+								"characters": "\ncout"
+							},
+							"BQAAAIwAAAAAAAAAkQAAAAAAAAAAAAAAkQAAAAAAAACSAAAAAAAAAAAAAACSAAAAAAAAAJMAAAAAAAAAAAAAAJMAAAAAAAAAlAAAAAAAAAAAAAAAlAAAAAAAAACVAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACMAAAAAAAAAIwAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							80,
+							1,
+							"insert",
+							{
+								"characters": " <<"
+							},
+							"AwAAAJUAAAAAAAAAlgAAAAAAAAAAAAAAlgAAAAAAAACXAAAAAAAAAAAAAACXAAAAAAAAAJgAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACVAAAAAAAAAJUAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							81,
+							1,
+							"insert",
+							{
+								"characters": " t;"
+							},
+							"AwAAAJgAAAAAAAAAmQAAAAAAAAAAAAAAmQAAAAAAAACaAAAAAAAAAAAAAACaAAAAAAAAAJsAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACYAAAAAAAAAJgAAAAAAAAAAAAAAAAA8L8"
+						]
+					]
+				},
+				{
+					"file": "/home/blueberry/competitive-programming/inputf.in",
+					"settings":
+					{
+						"buffer_size": 1,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					},
+					"undo_stack":
+					[
+						[
+							7,
+							1,
+							"cut",
+							null,
+							"AQAAAAAAAAAAAAAAAAAAAAAAAAAHAAAAMwoxIDIgMw",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAHAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							8,
+							1,
+							"insert",
+							{
+								"characters": "1"
+							},
+							"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+						]
+					]
+				},
+				{
+					"file": "/home/blueberry/competitive-programming/outputf.in",
+					"settings":
+					{
+						"buffer_size": 0,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					},
+					"undo_stack":
+					[
+						[
+							1,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							5,
+							1,
+							"cut",
+							null,
+							"AQAAAAAAAAAAAAAAAAAAAAAAAAADAAAAIDAK",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAADwvw"
+						]
+					]
+				}
+			],
+			"build_system": "Packages/C++/C++ Single File.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"packi",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"packag",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/blueberry/.config/sublime-text/Packages/User/blueberry c++.sublime-build",
+				"/home/blueberry/.config/sublime-text/Packages/User/Blueberry C++.sublime-build",
+				"/home/blueberry/.config/sublime-text/Packages/User/blueberry c++.sublime-settings",
+				"/home/blueberry/.config/sublime-text/Packages/User/c++.sublime-settings"
+			],
+			"find":
+			{
+				"height": 59.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"']++;\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/blueberry/competitive-programming/main.cpp",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 173,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										173,
+										173
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"sheets":
+					[
+						{
+							"buffer": 1,
+							"file": "/home/blueberry/competitive-programming/inputf.in",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1,
+										1
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"sheets":
+					[
+						{
+							"buffer": 2,
+							"file": "/home/blueberry/competitive-programming/outputf.in",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 59.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						2
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.521013072972,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.5,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 228.0,
+				"history":
+				[
+				]
+			},
+			"output.find_results":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"pinned_build_system": "Packages/User/Blueberry C++.sublime-build",
+			"position": "0,1,0,0,0,0,0,949,948,1920,1080,0",
+			"project": "",
+			"replace":
+			{
+				"height": 114.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+				"last_automatic_layout":
+				[
+					[
+						0,
+						0,
+						1,
+						2
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				]
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
