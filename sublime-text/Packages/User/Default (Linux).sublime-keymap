@@ -11,15 +11,10 @@
         "keys": ["alt+down"],
         "command": "swap_line_down"
     },
-     {
-        "keys": ["ctrl+alt+f"],
-        "command": "reindent"
+     { "keys": ["ctrl+shift+f"], "command": "clang_format",
+        "context":  
+        [
+            {"key": "selector", "operator": "equal", "operand": "source.c++"}
+        ],
     },
-    [
-    {
-        "keys": ["ctrl+f"],
-        "command": "reindent"
-    }
-]
-
 ]
