@@ -126,7 +126,7 @@ Flickable {
     clip: true
     Layout.fillWidth: true
     Layout.fillHeight: true
-    	Layout.topMargin: -
+    	Layout.topMargin: -8
     RowLayout {
         id: dockAppsRow
         anchors.fill: parent
