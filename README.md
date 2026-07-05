@@ -1,4 +1,4 @@
-# Dotfiles
+# Archlinux Dotfiles
 
 My archlinux dot files :)
 
