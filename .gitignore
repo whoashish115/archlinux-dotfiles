@@ -1,0 +1,75 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/*
+!.vscode/settings.json
+!.vscode/keybindings.json
+!.vscode/extensions.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# Node
+node_modules/
+
+# Build artifacts
+dist/
+build/
+out/
+
+# Secrets (never commit)
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+*.kdbx
+*.gpg
+*.age
+*.asc
+*.secret
+
+# SSH keys
+.ssh/
+id_rsa
+id_rsa.pub
+id_ed25519
+id_ed25519.pub
+known_hosts
+authorized_keys
+
+# GPG
+.gnupg/
+
+# Cloud credentials
+.aws/
+.azure/
+.gcloud/
+
+# Shell history
+.bash_history
+.zsh_history
+.history
+
+# Local overrides
+.local/
+.cache/
+.tmp/
