@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Theme - Cyanide/Cyanide - Alert - Black.tmTheme",
+	"theme": "Cyanide - Salmon.sublime-theme",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"font_size": 12,
+    "save_on_focus_lost": true,
+	"index_files": true,
+}
