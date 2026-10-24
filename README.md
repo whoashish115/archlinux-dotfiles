@@ -22,33 +22,10 @@ Designed to keep my setup reproducible across machines.
 
 ## Screenshots
 
-### Version 1
-
 ![](screenshots/4.png)
-
-### Version 2
 
 ![](screenshots/5.png)
 
-
-### Present 
-
-![](screenshots/1.png)
-
-<table>
-<tr>
-<td width="50%">
-
-![](screenshots/2.png)
-
-</td>
-<td width="50%">
-
-![](screenshots/3.png)
-
-</td>
-</tr>
-</table>
 
 ## Packages
 
